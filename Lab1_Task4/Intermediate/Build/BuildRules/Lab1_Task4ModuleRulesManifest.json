@@ -1,0 +1,8 @@
+{
+	"SourceFiles": [
+		"D:\\UnrealEngineProjects\\Lab1_Task4\\Source\\Lab1_Task4\\Lab1_Task4.Build.cs",
+		"D:\\UnrealEngineProjects\\Lab1_Task4\\Source\\Lab1_Task4.Target.cs",
+		"D:\\UnrealEngineProjects\\Lab1_Task4\\Source\\Lab1_Task4Editor.Target.cs"
+	],
+	"EngineVersion": "4.27.2"
+}

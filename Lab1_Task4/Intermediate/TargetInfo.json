@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "Lab1_Task4",
+			"Path": "D:\\UnrealEngineProjects\\Lab1_Task4\\Source\\Lab1_Task4.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "Lab1_Task4Editor",
+			"Path": "D:\\UnrealEngineProjects\\Lab1_Task4\\Source\\Lab1_Task4Editor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}

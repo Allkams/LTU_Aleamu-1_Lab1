@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\Lab1_Task4.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{4B6081F0-53B7-4CD3-8DA0-EF54F7C573F4}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\Lab1_Task4.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\Lab1_Task4Editor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <Filter Include="Config">
+      <UniqueIdentifier>{DE2E43B9-4076-4B05-AC04-4DC21CF19C36}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Source\Lab1_Task4">
+      <UniqueIdentifier>{1EC2F0AF-102A-4DBC-9460-A738ADD13C40}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\Lab1_Task4\Lab1_Task4.Build.cs">
+      <Filter>Source\Lab1_Task4</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\Lab1_Task4\Lab1_Task4.cpp">
+      <Filter>Source\Lab1_Task4</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Lab1_Task4\Lab1_Task4.h">
+      <Filter>Source\Lab1_Task4</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\Lab1_Task4\Lab1_Task4GameModeBase.cpp">
+      <Filter>Source\Lab1_Task4</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Lab1_Task4\Lab1_Task4GameModeBase.h">
+      <Filter>Source\Lab1_Task4</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>

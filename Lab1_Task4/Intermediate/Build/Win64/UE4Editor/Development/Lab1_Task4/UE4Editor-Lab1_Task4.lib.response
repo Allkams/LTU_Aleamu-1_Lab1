@@ -1,0 +1,15 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-Lab1_Task4.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"D:\UnrealEngineProjects\Lab1_Task4\Intermediate\Build\Win64\Lab1_Task4Editor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.obj"
+"D:\UnrealEngineProjects\Lab1_Task4\Intermediate\Build\Win64\UE4Editor\Development\Lab1_Task4\Lab1_Task4.cpp.obj"
+"D:\UnrealEngineProjects\Lab1_Task4\Intermediate\Build\Win64\UE4Editor\Development\Lab1_Task4\Lab1_Task4GameModeBase.cpp.obj"
+"D:\UnrealEngineProjects\Lab1_Task4\Intermediate\Build\Win64\UE4Editor\Development\Lab1_Task4\Lab1_Task4.init.gen.cpp.obj"
+"D:\UnrealEngineProjects\Lab1_Task4\Intermediate\Build\Win64\UE4Editor\Development\Lab1_Task4\Lab1_Task4GameModeBase.gen.cpp.obj"
+"D:\UnrealEngineProjects\Lab1_Task4\Intermediate\Build\Win64\UE4Editor\Development\Lab1_Task4\Default.rc2.res"
+/OUT:"D:\UnrealEngineProjects\Lab1_Task4\Intermediate\Build\Win64\UE4Editor\Development\Lab1_Task4\UE4Editor-Lab1_Task4.lib"
